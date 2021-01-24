@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/adivina/static/css/main.5abaede6.chunk.css",
+    "main.js": "/adivina/static/js/main.a6e3dabc.chunk.js",
+    "main.js.map": "/adivina/static/js/main.a6e3dabc.chunk.js.map",
+    "runtime-main.js": "/adivina/static/js/runtime-main.3635ee5b.js",
+    "runtime-main.js.map": "/adivina/static/js/runtime-main.3635ee5b.js.map",
+    "static/js/2.94c66782.chunk.js": "/adivina/static/js/2.94c66782.chunk.js",
+    "static/js/2.94c66782.chunk.js.map": "/adivina/static/js/2.94c66782.chunk.js.map",
+    "index.html": "/adivina/index.html",
+    "static/css/main.5abaede6.chunk.css.map": "/adivina/static/css/main.5abaede6.chunk.css.map",
+    "static/js/2.94c66782.chunk.js.LICENSE.txt": "/adivina/static/js/2.94c66782.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3635ee5b.js",
+    "static/js/2.94c66782.chunk.js",
+    "static/css/main.5abaede6.chunk.css",
+    "static/js/main.a6e3dabc.chunk.js"
+  ]
+}
